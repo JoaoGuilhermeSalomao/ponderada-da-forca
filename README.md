@@ -12,7 +12,7 @@ Os requisitos do jogo de forca online foram definidos considerando aspectos func
 
 Acesse o [repositório no GitHub](https://github.com/JoaoGuilhermeSalomao/ponderada-da-forca/tree/main).
 
-Clique no arquivo [Requisitos_Forca.md](https://github.com/JoaoGuilhermeSalomao/ponderada-da-forca/blob/develop/Requisitos_Forca.md) para visualizar o documento.
+Clique no arquivo [Requisitos_Forca.md](https://github.com/JoaoGuilhermeSalomao/ponderada-da-forca/blob/main/Requisitos_Forca.md) para visualizar o documento.
 
 
 ## Disponibilização no GitHub
