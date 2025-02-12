@@ -19,4 +19,4 @@
 5. O sistema deve manter estabilidade e evitar falhas mesmo com um grande número de acessos simultâneos.
 6. O sistema deve ser compatível com os principais navegadores (Chrome, Firefox, Edge, Safari).
 7. O sistema deve armazenar informações do usuário e partidas em um banco de dados seguro.
-8. O sistema deve não permitir atualizações que impactam positivamente a experiência do usuário.
+8. O sistema deve permitir atualizações sem impactar negativamente a experiência do usuário.
